@@ -1,0 +1,5 @@
+modified
+
+use find in root with type file and correct size. pipe to xargs and ls -l. grep correct owner
+
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs

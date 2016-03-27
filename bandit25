@@ -1,0 +1,6 @@
+uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
+
+create a script to brute force a force digit pin (loop through 0-9999). then use nc to send the password
+for bandit 24, a whitespace char, and the four digit pin in each iteration of the loop. you can capture the output of the 
+nc listener in port 30002 or you can just wait and hope you see the output of the correct pin. 
+see https://github.com/asvnpr/scripts/force.sh

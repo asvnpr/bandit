@@ -1,0 +1,3 @@
+cluFn7wTiGryunymYOu4RcffSxQluehd
+
+use openssl s_client to connect localhost port 30001 and submit password. have to use quiet or ign_eof. something about password beginning with 'B'???? need to read man more 

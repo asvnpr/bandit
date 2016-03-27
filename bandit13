@@ -1,0 +1,4 @@
+8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+
+use xxd to do hexdump to compressed binary then use file to determine if you need gzip, bzip2, or tar
+

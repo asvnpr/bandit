@@ -1,0 +1,4 @@
+Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
+
+see contents of cronjob_bandit22.sh. this tells you the command that is running. check the content of the script running
+this will tell you that the password for bandit22 is being written to a file in /tmp. see the content of the file 

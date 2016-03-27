@@ -1,0 +1,5 @@
+5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
+
+you need to resize terminal so the text that is display doesn't fit on the screen and more will be used.
+you can then use 'v' to open vi from more. now you can use commands in vi to change the shell of bandit26 (use set shell).
+ then use sh to open a shell from vi

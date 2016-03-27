@@ -1,0 +1,4 @@
+UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
+
+check script being run by cron. script executes anything in /var/spool/bandit24. create a script to capture bandit24
+password from /etc/bandit_pass/bandit24 and save it in tmp

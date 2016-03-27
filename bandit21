@@ -1,0 +1,3 @@
+gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+
+use nc -l to listen on a port. use provided script to send bandit 20's password to other bandit 20 user listening with nc
